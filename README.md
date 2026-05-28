@@ -31,7 +31,7 @@
 
 ### 💻 Como executar:
 - **Clone o repositório:**
-`CLI: git clone https://github.com/guiermeoliveira/LOP_Arrays.git`
+`CLI: git clone https://github.com/guiermeoliveira/array01_java.git`
 
 - **Navegue até a pasta:**
 `CLI: cd LOP_Arrays` 
